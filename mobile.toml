@@ -1,0 +1,5 @@
+[app]
+name = "parley-android"
+stylized-name = "Parley Android Test"
+domain = "corvelsoftware.co.uk"
+template-pack = "wgpu"
